@@ -13,6 +13,7 @@ requests library
 
 ### API Key
 Make sure to replace 'YOUR_API_KEY_HERE' in the main.py script with your actual NREL API key.
+
 Sign-up here: https://developer.nrel.gov/signup/
 
 ### Future Improvements
