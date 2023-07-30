@@ -1,6 +1,6 @@
 # AlternativeFuelMapper
 AlternativeFuelMapper is a command-line application that utilizes the U.S. Department of Energy's National Renewable Energy Laboratory (NREL)
-Alternative Fuel Stations API to find the nearest alternative fuel station based on user-provided latitude and longitude.
+Alternative Fuel Stations API to find the nearest alternative fuel station based on user-provided location (in the form of a street address).
 
 ### Features
 -Finds the nearest alternative fuel station to a given location.
