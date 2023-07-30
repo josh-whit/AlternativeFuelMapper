@@ -7,6 +7,9 @@ Alternative Fuel Stations API to find the nearest alternative fuel station based
 - Provides details such as name, address, fuel type, and distance.
 - Outputs data in JSON format for further use or analysis.
 
+  <img width="665" alt="Screenshot 2023-07-29 at 10 02 19 PM" src="https://github.com/josh-whit/AlternativeFuelMapper/assets/85045511/9a3a083b-1ec4-4095-8ea7-c19b3d6e59d2">
+
+
 ### Requirements
 Python 3.x
 requests library
